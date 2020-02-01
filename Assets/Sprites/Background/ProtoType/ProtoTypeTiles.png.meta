@@ -1,0 +1,1516 @@
+fileFormatVersion: 2
+guid: 5450fbe38ae66d74a9a6912cea82dce5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -815652831121388668
+    second: ProtoTypeTiles_0
+  - first:
+      213: 1610818387318622153
+    second: ProtoTypeTiles_1
+  - first:
+      213: 8507849301490256453
+    second: ProtoTypeTiles_2
+  - first:
+      213: 3342612446457381553
+    second: ProtoTypeTiles_3
+  - first:
+      213: 5038944689904477818
+    second: ProtoTypeTiles_4
+  - first:
+      213: -4433000591971294017
+    second: ProtoTypeTiles_5
+  - first:
+      213: -4649035355387606241
+    second: ProtoTypeTiles_6
+  - first:
+      213: -2695300559651400389
+    second: ProtoTypeTiles_7
+  - first:
+      213: -3784545374820549701
+    second: ProtoTypeTiles_8
+  - first:
+      213: 584556869702132987
+    second: ProtoTypeTiles_9
+  - first:
+      213: -4917619059331685456
+    second: ProtoTypeTiles_10
+  - first:
+      213: -4848494043550532775
+    second: ProtoTypeTiles_11
+  - first:
+      213: 728669838775068028
+    second: ProtoTypeTiles_12
+  - first:
+      213: -8009739586672779377
+    second: ProtoTypeTiles_13
+  - first:
+      213: -4556109519167156034
+    second: ProtoTypeTiles_14
+  - first:
+      213: 1756849043464444476
+    second: ProtoTypeTiles_15
+  - first:
+      213: 3128176523274768136
+    second: ProtoTypeTiles_16
+  - first:
+      213: -5518673323240247910
+    second: ProtoTypeTiles_17
+  - first:
+      213: -5297604041927610105
+    second: ProtoTypeTiles_18
+  - first:
+      213: -6136021769099704461
+    second: ProtoTypeTiles_19
+  - first:
+      213: -5764722555288818783
+    second: ProtoTypeTiles_20
+  - first:
+      213: 6905320399635864732
+    second: ProtoTypeTiles_21
+  - first:
+      213: 6590469415005731456
+    second: ProtoTypeTiles_22
+  - first:
+      213: 6127660513476054215
+    second: ProtoTypeTiles_23
+  - first:
+      213: 3679539803981674006
+    second: ProtoTypeTiles_24
+  - first:
+      213: 2626797175283428388
+    second: ProtoTypeTiles_25
+  - first:
+      213: 452012842776477993
+    second: ProtoTypeTiles_26
+  - first:
+      213: 4526723313467657662
+    second: ProtoTypeTiles_27
+  - first:
+      213: -1007639345916328057
+    second: ProtoTypeTiles_28
+  - first:
+      213: 941683493181445527
+    second: ProtoTypeTiles_29
+  - first:
+      213: 5530333856121095375
+    second: ProtoTypeTiles_30
+  - first:
+      213: 8281251246577350089
+    second: ProtoTypeTiles_31
+  - first:
+      213: -6667513231120837759
+    second: ProtoTypeTiles_32
+  - first:
+      213: 2400081935350913019
+    second: ProtoTypeTiles_33
+  - first:
+      213: 8991558508123670540
+    second: ProtoTypeTiles_34
+  - first:
+      213: -5061702687858568489
+    second: ProtoTypeTiles_35
+  - first:
+      213: -203591234376660635
+    second: ProtoTypeTiles_36
+  - first:
+      213: 8165432950553299187
+    second: ProtoTypeTiles_37
+  - first:
+      213: 1053387873520189032
+    second: ProtoTypeTiles_38
+  - first:
+      213: 833593697927563136
+    second: ProtoTypeTiles_39
+  - first:
+      213: -8572803161287734248
+    second: ProtoTypeTiles_40
+  - first:
+      213: -4780117742611431443
+    second: ProtoTypeTiles_41
+  - first:
+      213: -4575095179406773978
+    second: ProtoTypeTiles_42
+  - first:
+      213: -7515982472352805332
+    second: ProtoTypeTiles_43
+  - first:
+      213: 8422161756679300963
+    second: ProtoTypeTiles_44
+  - first:
+      213: 5194326853215404189
+    second: ProtoTypeTiles_45
+  - first:
+      213: -4479872411874464642
+    second: ProtoTypeTiles_46
+  - first:
+      213: 2185286983905024035
+    second: ProtoTypeTiles_47
+  - first:
+      213: 5912024778455894708
+    second: ProtoTypeTiles_48
+  - first:
+      213: 8126492147110828344
+    second: ProtoTypeTiles_49
+  - first:
+      213: -8003749519534022572
+    second: ProtoTypeTiles_50
+  - first:
+      213: -6388238668250612434
+    second: ProtoTypeTiles_51
+  - first:
+      213: 5088408620988880041
+    second: ProtoTypeTiles_52
+  - first:
+      213: -1406226774375377489
+    second: ProtoTypeTiles_53
+  - first:
+      213: 3445893988378196481
+    second: ProtoTypeTiles_54
+  - first:
+      213: 4785847851894771561
+    second: ProtoTypeTiles_55
+  - first:
+      213: -1219922988381933050
+    second: ProtoTypeTiles_56
+  - first:
+      213: 2918434567936155669
+    second: ProtoTypeTiles_57
+  - first:
+      213: 8619877408385688345
+    second: ProtoTypeTiles_58
+  - first:
+      213: 2787515864847443190
+    second: ProtoTypeTiles_59
+  - first:
+      213: -7334433066865492977
+    second: ProtoTypeTiles_60
+  - first:
+      213: 8318624293626219794
+    second: ProtoTypeTiles_61
+  - first:
+      213: 4641083691983252559
+    second: ProtoTypeTiles_62
+  - first:
+      213: -8439335390154173569
+    second: ProtoTypeTiles_63
+  - first:
+      213: 8891807667688294131
+    second: ProtoTypeTiles_64
+  - first:
+      213: 758932924354968036
+    second: ProtoTypeTiles_65
+  - first:
+      213: -487606219659578549
+    second: ProtoTypeTiles_66
+  - first:
+      213: -6925283065181761340
+    second: ProtoTypeTiles_67
+  - first:
+      213: -7520584888460850091
+    second: ProtoTypeTiles_68
+  - first:
+      213: 5267927574643432293
+    second: ProtoTypeTiles_69
+  - first:
+      213: 2265109911824029316
+    second: ProtoTypeTiles_70
+  - first:
+      213: 8492023887951396622
+    second: ProtoTypeTiles_71
+  - first:
+      213: -4041939873389572455
+    second: ProtoTypeTiles_72
+  - first:
+      213: -4517515458170368392
+    second: ProtoTypeTiles_73
+  - first:
+      213: -2544241158314891004
+    second: ProtoTypeTiles_74
+  - first:
+      213: 8136502706072021365
+    second: ProtoTypeTiles_75
+  - first:
+      213: -729215400369012480
+    second: ProtoTypeTiles_76
+  - first:
+      213: -1275070135311983300
+    second: ProtoTypeTiles_77
+  - first:
+      213: -1320658204945520847
+    second: ProtoTypeTiles_78
+  - first:
+      213: -3615047871601698131
+    second: ProtoTypeTiles_79
+  - first:
+      213: -451658215164746887
+    second: ProtoTypeTiles_80
+  - first:
+      213: 1548461447633929439
+    second: ProtoTypeTiles_81
+  - first:
+      213: 97260392405273691
+    second: ProtoTypeTiles_82
+  - first:
+      213: -8288970100747336217
+    second: ProtoTypeTiles_83
+  - first:
+      213: 6265517774027465798
+    second: ProtoTypeTiles_84
+  - first:
+      213: -4389850598787080221
+    second: ProtoTypeTiles_85
+  - first:
+      213: -8712216553921171833
+    second: ProtoTypeTiles_86
+  - first:
+      213: -7658893068368128573
+    second: ProtoTypeTiles_87
+  - first:
+      213: 468358337993700482
+    second: ProtoTypeTiles_88
+  - first:
+      213: 4337001658244797972
+    second: ProtoTypeTiles_89
+  - first:
+      213: 4980738746126452713
+    second: ProtoTypeTiles_90
+  - first:
+      213: -6115058643079499531
+    second: ProtoTypeTiles_91
+  - first:
+      213: -2867592837882460079
+    second: ProtoTypeTiles_92
+  - first:
+      213: -3402854619255736849
+    second: ProtoTypeTiles_93
+  - first:
+      213: -5284028072724935863
+    second: ProtoTypeTiles_94
+  - first:
+      213: 4646367377303428448
+    second: ProtoTypeTiles_95
+  - first:
+      213: 5349225574280692534
+    second: ProtoTypeTiles_96
+  - first:
+      213: -1292675962452791723
+    second: ProtoTypeTiles_97
+  - first:
+      213: 8349134377993777509
+    second: ProtoTypeTiles_98
+  - first:
+      213: -1911059611393414770
+    second: ProtoTypeTiles_99
+  - first:
+      213: 3799152571719378616
+    second: ProtoTypeTiles_100
+  - first:
+      213: 8430000617094837302
+    second: ProtoTypeTiles_101
+  - first:
+      213: -8065446626502791935
+    second: ProtoTypeTiles_102
+  - first:
+      213: -4984766379978419567
+    second: ProtoTypeTiles_103
+  - first:
+      213: -3456179015515574590
+    second: ProtoTypeTiles_104
+  - first:
+      213: 8546897501555409575
+    second: ProtoTypeTiles_105
+  - first:
+      213: -7821390714467200102
+    second: ProtoTypeTiles_106
+  - first:
+      213: -7547641794992228043
+    second: ProtoTypeTiles_107
+  - first:
+      213: -7798973539954541807
+    second: ProtoTypeTiles_108
+  - first:
+      213: -2196333577237280094
+    second: ProtoTypeTiles_109
+  - first:
+      213: -7986254365820400507
+    second: ProtoTypeTiles_110
+  - first:
+      213: -3353004476935453388
+    second: ProtoTypeTiles_111
+  - first:
+      213: -8288021752568456328
+    second: ProtoTypeTiles_112
+  - first:
+      213: 2869179706722834732
+    second: ProtoTypeTiles_113
+  - first:
+      213: -1577080013878099325
+    second: ProtoTypeTiles_114
+  - first:
+      213: 7016505730648876975
+    second: ProtoTypeTiles_115
+  - first:
+      213: -2475543783753969376
+    second: ProtoTypeTiles_116
+  - first:
+      213: 5317656086569295327
+    second: ProtoTypeTiles_117
+  - first:
+      213: 7105979217117728333
+    second: ProtoTypeTiles_118
+  - first:
+      213: -8711334666685319708
+    second: ProtoTypeTiles_119
+  - first:
+      213: 2655252827492926836
+    second: ProtoTypeTiles_120
+  - first:
+      213: -933014049486719572
+    second: ProtoTypeTiles_121
+  - first:
+      213: -202059440242572324
+    second: ProtoTypeTiles_122
+  - first:
+      213: -1258955604566365887
+    second: ProtoTypeTiles_123
+  - first:
+      213: 7148147976142686362
+    second: ProtoTypeTiles_124
+  - first:
+      213: 2390382985691471182
+    second: ProtoTypeTiles_125
+  - first:
+      213: -5891241644413868634
+    second: ProtoTypeTiles_126
+  - first:
+      213: -6674118965283609751
+    second: ProtoTypeTiles_127
+  - first:
+      213: -7404156323608017156
+    second: ProtoTypeTiles_128
+  - first:
+      213: 6394224082762978888
+    second: ProtoTypeTiles_129
+  - first:
+      213: 541693512763435953
+    second: ProtoTypeTiles_130
+  - first:
+      213: -5648105987100360301
+    second: ProtoTypeTiles_131
+  - first:
+      213: -3246353351796040857
+    second: ProtoTypeTiles_132
+  - first:
+      213: -4144764927462405398
+    second: ProtoTypeTiles_133
+  - first:
+      213: 1504386462058558626
+    second: ProtoTypeTiles_134
+  - first:
+      213: 7626870752592743852
+    second: ProtoTypeTiles_135
+  - first:
+      213: -2977579480396444757
+    second: ProtoTypeTiles_136
+  - first:
+      213: 7078405260044379690
+    second: ProtoTypeTiles_137
+  - first:
+      213: 6750293401764702057
+    second: ProtoTypeTiles_138
+  - first:
+      213: -1123781342866125932
+    second: ProtoTypeTiles_139
+  - first:
+      213: -5895471957968553555
+    second: ProtoTypeTiles_140
+  - first:
+      213: 6095895460059896051
+    second: ProtoTypeTiles_141
+  - first:
+      213: 3949547792375855665
+    second: ProtoTypeTiles_142
+  - first:
+      213: 7581269964577671326
+    second: ProtoTypeTiles_143
+  - first:
+      213: -4865681032107283019
+    second: ProtoTypeTiles_144
+  - first:
+      213: 532793252690983718
+    second: ProtoTypeTiles_145
+  - first:
+      213: -6491229144337716681
+    second: ProtoTypeTiles_146
+  - first:
+      213: 765089784890357342
+    second: ProtoTypeTiles_147
+  - first:
+      213: -5649728467280850612
+    second: ProtoTypeTiles_148
+  - first:
+      213: 1923898994363786347
+    second: ProtoTypeTiles_149
+  - first:
+      213: 3314824674319941222
+    second: ProtoTypeTiles_150
+  - first:
+      213: 4390322813651823394
+    second: ProtoTypeTiles_151
+  - first:
+      213: 1096240396393003060
+    second: ProtoTypeTiles_152
+  - first:
+      213: 7101916664683103708
+    second: ProtoTypeTiles_153
+  - first:
+      213: -3657482224165883296
+    second: ProtoTypeTiles_154
+  - first:
+      213: -2491876410119650018
+    second: ProtoTypeTiles_155
+  - first:
+      213: -3462717933573109468
+    second: ProtoTypeTiles_156
+  - first:
+      213: -3370861937583722687
+    second: ProtoTypeTiles_157
+  - first:
+      213: 578493423211529201
+    second: ProtoTypeTiles_158
+  - first:
+      213: 5449404672062275530
+    second: ProtoTypeTiles_159
+  - first:
+      213: -643159999161224308
+    second: ProtoTypeTiles_160
+  - first:
+      213: -3883408233204739793
+    second: ProtoTypeTiles_161
+  - first:
+      213: -6942172789317219769
+    second: ProtoTypeTiles_162
+  - first:
+      213: 2013869249802464114
+    second: ProtoTypeTiles_163
+  - first:
+      213: -3214882295712813602
+    second: ProtoTypeTiles_164
+  - first:
+      213: 4880014552008627387
+    second: ProtoTypeTiles_165
+  - first:
+      213: 870236895041139378
+    second: ProtoTypeTiles_166
+  - first:
+      213: -3330992210036780971
+    second: ProtoTypeTiles_167
+  - first:
+      213: -5607422105307748262
+    second: ProtoTypeTiles_168
+  - first:
+      213: -90438576992400243
+    second: ProtoTypeTiles_169
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProtoTypeTiles_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bc7f452183ea4f0800000000000000
+      internalID: -815652831121388668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74bcde9c6ca5610800000000000000
+      internalID: 1610818387318622153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac1e9fcd3f11670800000000000000
+      internalID: 8507849301490256453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b244e46f48536e20800000000000000
+      internalID: 3342612446457381553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76e89c7f7dede540800000000000000
+      internalID: 5038944689904477818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_5
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4647ad271da72c0800000000000000
+      internalID: -4433000591971294017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_6
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc3e5d9fe4b7fb0800000000000000
+      internalID: -4649035355387606241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_7
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35111bdb6e589ad0800000000000000
+      internalID: -2695300559651400389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb397178089a7bc0800000000000000
+      internalID: -3784545374820549701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf42c993063cc1800800000000000000
+      internalID: 584556869702132987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b328db258b11cbb0800000000000000
+      internalID: -4917619059331685456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bb2961b50b6bcb0800000000000000
+      internalID: -4848494043550532775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75aab29b51cc1a00800000000000000
+      internalID: 728669838775068028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f1cf88840b7d090800000000000000
+      internalID: -8009739586672779377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb01448188275c0c0800000000000000
+      internalID: -4556109519167156034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3adea795e4916810800000000000000
+      internalID: 1756849043464444476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f428069f3896b20800000000000000
+      internalID: 3128176523274768136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_17
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d27d80adbb963b0800000000000000
+      internalID: -5518673323240247910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7013b3811312b76b0800000000000000
+      internalID: -5297604041927610105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3778fb606b878daa0800000000000000
+      internalID: -6136021769099704461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe357f0679fffa0800000000000000
+      internalID: -5764722555288818783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cdd884150a4df50800000000000000
+      internalID: 6905320399635864732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a3e70e30d067b50800000000000000
+      internalID: 6590469415005731456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc8de175c2d90550800000000000000
+      internalID: 6127660513476054215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616fc39e4f9501330800000000000000
+      internalID: 3679539803981674006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_25
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ca4c11d12447420800000000000000
+      internalID: 2626797175283428388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_26
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9214b9f194fd54600800000000000000
+      internalID: 452012842776477993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd08b7bed622de30800000000000000
+      internalID: 4526723313467657662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78743f48a552402f0800000000000000
+      internalID: -1007639345916328057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795dde5d528811d00800000000000000
+      internalID: 941683493181445527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc40a675751bfbc40800000000000000
+      internalID: 5530333856121095375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f000022aece270800000000000000
+      internalID: 8281251246577350089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18353d3da0c3873a0800000000000000
+      internalID: -6667513231120837759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75c64ddcdce4120800000000000000
+      internalID: 2400081935350913019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_34
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c084ad5e2de68cc70800000000000000
+      internalID: 8991558508123670540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_35
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2dc83393831c9b0800000000000000
+      internalID: -5061702687858568489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569889bd9d2bc2df0800000000000000
+      internalID: -203591234376660635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8cff69102715170800000000000000
+      internalID: 8165432950553299187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86effdb90b26e9e00800000000000000
+      internalID: 1053387873520189032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870afb3d05819b00800000000000000
+      internalID: 833593697927563136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c491a02f8470980800000000000000
+      internalID: -8572803161287734248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_41
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def7a1f3d3c99adb0800000000000000
+      internalID: -4780117742611431443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtoTypeTiles_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6217bd99c2ff180c0800000000000000
+      internalID: -4575095179406773978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
